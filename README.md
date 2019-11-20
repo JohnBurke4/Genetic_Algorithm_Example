@@ -1,5 +1,5 @@
 # Genetic_Algorithm_Example
-The code from my blog post at blogit.life
+The code from my blog post at https://blogit.life/2019/01/30/simple-ai-genetic-algorithm/
 
 Download all these files and add them to the same directory/folder.
 
