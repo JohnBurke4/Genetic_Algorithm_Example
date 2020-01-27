@@ -1,6 +1,33 @@
-# Genetic_Algorithm_Example
-The code from my blog post at https://blogit.life/2019/01/30/simple-ai-genetic-algorithm/
+# Genetic Algorithm
 
-Download all these files and add them to the same directory/folder.
+Java implementation of the Genetic Algorithm using Processing
 
-To run them, have Processing installed and run any file in the folder.
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+Ensure [Processing](https://processing.org/download/) is installed on your machine.
+
+### Installing
+
+Simply clone the repository to your machine. 
+
+**All files must be in the same directory***
+
+## Deployment
+
+Run any file in the directory in Processing. Leave the program to run to see the evolution over time.
+
+## Example
+
+An example of the program running can be found [here](https://youtu.be/2sedGiSlSH0)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+Very heavily inspired by [this Youtube Video](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
