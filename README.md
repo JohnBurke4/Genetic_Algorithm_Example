@@ -14,7 +14,7 @@ Ensure [Processing](https://processing.org/download/) is installed on your machi
 
 Simply clone the repository to your machine. 
 
-**All files must be in the same directory***
+**All files must be in the same directory**
 
 ## Deployment
 
